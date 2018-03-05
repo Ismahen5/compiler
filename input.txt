@@ -1,5 +1,5 @@
 (*  Sample program
-  computes factorial
+  computes maxmin
 *)
 program factorial;
 var zeee,fact,x : integer;
